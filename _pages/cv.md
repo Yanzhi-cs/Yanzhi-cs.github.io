@@ -14,6 +14,7 @@ Education
 * B.A. in Computer Science & Physics, Earlham College, 2020
 * Ph.D in Computer Science, Northwestern University, 2026 (expected)
 
+
 Work experience
 ======
 * 2017-2020: System Administrator
@@ -24,7 +25,6 @@ Work experience
   * ● Optimized system security and performance with Docker containers
 
 <?
-<!---
 Publications
 ======
   <ul>{% for post in site.publications %}
