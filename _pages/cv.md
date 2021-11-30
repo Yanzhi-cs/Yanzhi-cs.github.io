@@ -13,8 +13,8 @@ Education
 ======
 * B.A. in Computer Science & Physics, Earlham College, 2020
 * Ph.D in Computer Science, Northwestern University, 2026 (expected)
-<!---
 
+<!---
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -48,4 +48,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
--->
+--->
