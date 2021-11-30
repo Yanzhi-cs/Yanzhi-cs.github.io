@@ -19,11 +19,12 @@ Work experience
 * 2017-2020: System Administrator
   * Earlham College
   * Duties included: 
-  ● Implemented, developed and tested installation and update of file servers, file system and application servers in cs department
-  ● Implemented corrective plans of action for network performance issues including availability, utilization, and latency.
-  ● Optimized system security and performance with Docker containers
+  * ● Implemented, developed and tested installation and update of file servers, file system and application servers in cs department
+  * ● Implemented corrective plans of action for network performance issues including availability, utilization, and latency.
+  * ● Optimized system security and performance with Docker containers
 
 <?
+<!---
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -41,4 +42,5 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+--->
 ?>
