@@ -12,4 +12,6 @@ This is Li Yanzhi(李延志)'s academic website.
 
 My research interests
 ======
-My interests are in cloud computing and networked systems. I am currently working on decentralized internet infrastructure. 
+I am broadly interested in networked and wireless systems, with a focus on internet measurement,
+digital communication, and the design of both traditional and ML-based network control algorithms to
+improve application performance.
