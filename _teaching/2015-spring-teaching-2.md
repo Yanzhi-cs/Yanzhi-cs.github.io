@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "COMP_SCI 397/497: Selected Topics in Computer Networks – Spring 2022, 2023"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University 1, Department"
-date: 2015-01-01
+date: 2022-01-01
 location: "City, Country"
 ---
 
