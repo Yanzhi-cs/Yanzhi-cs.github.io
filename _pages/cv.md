@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% /CV(Li).pdf %}
+[Download CV (PDF)](CV(Li).pdf)
 
 <!--Publications
 ======
